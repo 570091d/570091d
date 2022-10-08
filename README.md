@@ -1,6 +1,7 @@
 - hello, I’m a problem solver
 - I’m currently learning how to create, manage, and automate resources in the cloud
 - python is my friend
+- I'm a Deepracer Pro (AWS Deepracer League)
 - you can reach me at whistlepunk@gmail.com
 
 <!---
